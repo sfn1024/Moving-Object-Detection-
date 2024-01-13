@@ -1,4 +1,7 @@
 # Moving Object Detection
+Note
+* For better experience, Before running the code make sure the code captures a blank background first.
+* Then Interfere other objects
 
 Requierments
 1. IDE
